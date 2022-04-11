@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("first pycharm")
     print("hot-fix version")
+    print("master_conflict")
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
